@@ -1,0 +1,27 @@
+10:31:00 **** Build of configuration Debug for project lab2 ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+'Building file: ../src/lab2.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/lab2.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -IC:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/export/lab2p/sw/lab2p/standalone_domain/bspinclude/include -MMD -MP -MF"src/lab2.d" -MT"src/lab2.o" -o "src/lab2.o" "../src/lab2.c"
+../src/lab2.c: In function 'main':
+../src/lab2.c:19:28: error: 'XPAR_SWITCHES_DEVICE_ID' undeclared (first use in this function); did you mean 'XPAR_SCUTIMER_DEVICE_ID'?
+   19 |     XGpio_Initialize(&dip, XPAR_SWITCHES_DEVICE_ID);
+      |                            ^~~~~~~~~~~~~~~~~~~~~~~
+      |                            XPAR_SCUTIMER_DEVICE_ID
+../src/lab2.c:19:28: note: each undeclared identifier is reported only once for each function it appears in
+../src/lab2.c:22:33: error: 'XPAR_BUTTONS_DEVICE_ID' undeclared (first use in this function); did you mean 'XPAR_SCUTIMER_DEVICE_ID'?
+   22 |         XGpio_Initialize(&push, XPAR_BUTTONS_DEVICE_ID);
+      |                                 ^~~~~~~~~~~~~~~~~~~~~~
+      |                                 XPAR_SCUTIMER_DEVICE_ID
+../src/lab2.c:32:11: warning: implicit declaration of function 'sleep' [-Wimplicit-function-declaration]
+   32 |           sleep(1);
+      |           ^~~~~
+make[1]: *** [src/subdir.mk:23: src/lab2.o] Error 1
+make: *** [makefile:34: all] Error 2
+
+10:31:01 Build Finished (took 505ms)
+

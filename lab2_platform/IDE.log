@@ -1,0 +1,14 @@
+10:28:04 DEBUG : Logs will be stored at 'C:/Github_Repo/xup_embedded_practice/lab2_platform/IDE.log'.
+10:28:08 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Github_Repo\xup_embedded_practice\lab2_platform\temp_xsdb_launch_script.tcl
+10:28:08 INFO  : Platform repository initialization has completed.
+10:28:09 INFO  : Registering command handlers for Vitis TCF services
+10:28:11 INFO  : XSCT server has started successfully.
+10:28:11 INFO  : Successfully done setting XSCT server connection channel  
+10:28:11 INFO  : plnx-install-location is set to ''
+10:28:11 INFO  : Successfully done setting workspace for the tool. 
+10:28:11 INFO  : Successfully done query RDI_DATADIR 
+10:29:08 INFO  : Result from executing command 'getProjects': lab2p
+10:29:08 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+10:31:00 INFO  : Result from executing command 'getProjects': lab2p
+10:31:00 INFO  : Result from executing command 'getPlatforms': lab2p|C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/export/lab2p/lab2p.xpfm;xilinx_zcu102_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_202220_1/xilinx_zcu102_base_202220_1.xpfm;xilinx_zcu102_base_dfx_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu102_base_dfx_202220_1/xilinx_zcu102_base_dfx_202220_1.xpfm;xilinx_zcu104_base_202220_1|C:/Xilinx/Vitis/2022.2/base_platforms/xilinx_zcu104_base_202220_1/xilinx_zcu104_base_202220_1.xpfm
+10:31:00 INFO  : Checking for BSP changes to sync application flags for project 'lab2'...

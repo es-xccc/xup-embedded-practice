@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]C:\Github_Repo\xup_embedded_practice\lab8_platform\zynq_fsbl\Debug\zynq_fsbl.elf
+	C:\Github_Repo\xup_embedded_practice\lab8_platform\system_wrapper\hw\system_wrapper.bit
+	C:\Github_Repo\xup_embedded_practice\lab8_platform\lab8\Debug\lab8.elf
+}

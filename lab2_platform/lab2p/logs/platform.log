@@ -1,0 +1,2199 @@
+TRACE::2024-02-16.10:28:54::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:54::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:54::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:54::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:28:55::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:55::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:28:55::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-02-16.10:28:57::SCWPlatform::Opened new HwDB with name system_wrapper_0
+TRACE::2024-02-16.10:28:57::SCWWriter::formatted JSON is {
+	"platformName":	"lab2p",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"lab2p",
+	"platHandOff":	"C:/Github_Repo/xup_embedded_practice/lab2/system_wrapper_lab2.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper_lab2.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2024-02-16.10:28:57::SCWWriter::formatted JSON is {
+	"platformName":	"lab2p",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"lab2p",
+	"platHandOff":	"C:/Github_Repo/xup_embedded_practice/lab2/system_wrapper_lab2.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper_lab2.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"lab2p",
+	"systems":	[{
+			"systemName":	"lab2p",
+			"systemDesc":	"lab2p",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"lab2p"
+		}]
+}
+TRACE::2024-02-16.10:28:57::SCWPlatform::Boot application domains not present, creating them
+TRACE::2024-02-16.10:28:57::SCWDomain::checking for install qemu data   : 
+TRACE::2024-02-16.10:28:57::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2024-02-16.10:28:57::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2024-02-16.10:28:57::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:28:57::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:28:57::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:28:57::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:28:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:28:57::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:28:57::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:28:57::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:28:57::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:28:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:28:57::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:28:57::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:28:57::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:28:57::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:28:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:28:57::SCWPlatform::Boot application domain added for zynq_fsbl
+TRACE::2024-02-16.10:28:57::SCWPlatform::Generating the sources  .
+TRACE::2024-02-16.10:28:57::SCWBDomain::Generating boot domain sources.
+TRACE::2024-02-16.10:28:57::SCWBDomain:: Generating the zynq_fsbl Application.
+TRACE::2024-02-16.10:28:57::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:28:57::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:28:57::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:28:57::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:28:57::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:28:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:28:57::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:28:57::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-02-16.10:28:57::SCWMssOS::No sw design opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:28:57::SCWMssOS::mss does not exists at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:28:57::SCWMssOS::Creating sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:28:57::SCWMssOS::Adding the swdes entry, created swdb C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:28:57::SCWMssOS::updating the scw layer changes to swdes at   C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:28:57::SCWMssOS::Writing mss at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:28:57::SCWMssOS::Completed writing the mss file at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2024-02-16.10:28:57::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-02-16.10:28:57::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-02-16.10:28:57::SCWBDomain::Completed writing the mss file at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2024-02-16.10:29:06::SCWPlatform::Generating sources Done.
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:06::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:06::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-02-16.10:29:06::SCWMssOS::No sw design opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:06::SCWMssOS::mss exists loading the mss file  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:06::SCWMssOS::Opened the sw design from mss  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:06::SCWMssOS::Adding the swdes entry C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2024-02-16.10:29:06::SCWMssOS::updating the scw layer about changes
+TRACE::2024-02-16.10:29:06::SCWMssOS::Opened the sw design.  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:06::SCWMssOS::Saving the mss changes C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:06::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-16.10:29:06::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-16.10:29:06::SCWMssOS::Commit changes completed.
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:06::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:06::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:06::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:06::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:06::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:06::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:06::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:06::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:06::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:06::SCWWriter::formatted JSON is {
+	"platformName":	"lab2p",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"lab2p",
+	"platHandOff":	"C:/Github_Repo/xup_embedded_practice/lab2/system_wrapper_lab2.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper_lab2.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"lab2p",
+	"systems":	[{
+			"systemName":	"lab2p",
+			"systemDesc":	"lab2p",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"lab2p",
+			"sysActiveDom":	"zynq_fsbl",
+			"sysDefaultDom":	"",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"884cd224b1e1b5ebe7892a71000c437a",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:06::SCWDomain::checking for install qemu data   : 
+TRACE::2024-02-16.10:29:06::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2024-02-16.10:29:06::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:06::SCWDomain::Qemu Directory name is changed from "" to "qemu"
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:06::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:06::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:06::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:06::SCWMssOS::No sw design opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:06::SCWMssOS::mss does not exists at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:06::SCWMssOS::Creating sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:07::SCWMssOS::Adding the swdes entry, created swdb C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:07::SCWMssOS::updating the scw layer changes to swdes at   C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:07::SCWMssOS::Writing mss at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:07::SCWMssOS::Completed writing the mss file at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2024-02-16.10:29:07::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-02-16.10:29:07::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-02-16.10:29:07::SCWMssOS::Completed writing the mss file at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2024-02-16.10:29:07::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2024-02-16.10:29:08::SCWMssOS::Saving the mss changes C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-16.10:29:08::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-16.10:29:08::SCWMssOS::Commit changes completed.
+TRACE::2024-02-16.10:29:08::SCWMssOS::Saving the mss changes C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2024-02-16.10:29:08::SCWMssOS::Writing the mss file completed C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::Commit changes completed.
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:08::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:08::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:08::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:08::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:08::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:08::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:08::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:08::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:08::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:08::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:08::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:08::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWWriter::formatted JSON is {
+	"platformName":	"lab2p",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"lab2p",
+	"platHandOff":	"C:/Github_Repo/xup_embedded_practice/lab2/system_wrapper_lab2.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper_lab2.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"lab2p",
+	"systems":	[{
+			"systemName":	"lab2p",
+			"systemDesc":	"lab2p",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"lab2p",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"884cd224b1e1b5ebe7892a71000c437a",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/lab2p/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/lab2p/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"de37d72ba74ba18dce34b41f42cd6cfd",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2024-02-16.10:29:08::SCWPlatform::Started generating the artifacts platform lab2p
+TRACE::2024-02-16.10:29:08::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-02-16.10:29:08::SCWPlatform::Started generating the artifacts for system configuration lab2p
+LOG::2024-02-16.10:29:08::SCWSystem::Checking the domain zynq_fsbl
+LOG::2024-02-16.10:29:08::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2024-02-16.10:29:08::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2024-02-16.10:29:08::SCWDomain::Skipping the build for domain :  zynq_fsbl
+LOG::2024-02-16.10:29:08::SCWSystem::Checking the domain standalone_domain
+LOG::2024-02-16.10:29:08::SCWSystem::Not a boot domain 
+LOG::2024-02-16.10:29:08::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-02-16.10:29:08::SCWDomain::Generating domain artifcats
+TRACE::2024-02-16.10:29:08::SCWMssOS::Generating standalone artifcats
+TRACE::2024-02-16.10:29:08::SCWMssOS::Copying the qemu file from  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/resources/lab2p/standalone_domain/qemu_args.txt To C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/export/lab2p/sw/lab2p/qemu/
+TRACE::2024-02-16.10:29:08::SCWMssOS::Copying the qemu file from  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/resources/lab2p/standalone_domain/qemu_args.txt To C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/export/lab2p/sw/lab2p/standalone_domain/qemu/
+TRACE::2024-02-16.10:29:08::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:08::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:08::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::Completed writing the mss file at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2024-02-16.10:29:08::SCWMssOS::Mss edits present, copying mssfile into export location C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-02-16.10:29:08::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-02-16.10:29:08::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2024-02-16.10:29:08::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-02-16.10:29:08::SCWMssOS::Copying to export directory.
+TRACE::2024-02-16.10:29:08::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-02-16.10:29:08::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+TRACE::2024-02-16.10:29:08::SCWMssOS:: Completed Standalone Artifacts creation 
+LOG::2024-02-16.10:29:08::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-02-16.10:29:08::SCWSystem::Completed Processing the sysconfig lab2p
+LOG::2024-02-16.10:29:08::SCWPlatform::Completed generating the artifacts for system configuration lab2p
+TRACE::2024-02-16.10:29:08::SCWPlatform::Started preparing the platform 
+TRACE::2024-02-16.10:29:08::SCWSystem::Writing the bif file for system config lab2p
+TRACE::2024-02-16.10:29:08::SCWSystem::dir created 
+TRACE::2024-02-16.10:29:08::SCWSystem::Writing the bif 
+TRACE::2024-02-16.10:29:08::SCWPlatform::Started writing the spfm file 
+TRACE::2024-02-16.10:29:08::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-02-16.10:29:08::SCWPlatform::Completed generating the platform
+TRACE::2024-02-16.10:29:08::SCWMssOS::Saving the mss changes C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-16.10:29:08::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-16.10:29:08::SCWMssOS::Commit changes completed.
+TRACE::2024-02-16.10:29:08::SCWMssOS::Saving the mss changes C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-16.10:29:08::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-16.10:29:08::SCWMssOS::Commit changes completed.
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:08::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:08::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:08::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:08::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:08::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:08::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:08::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:08::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:08::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:08::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:08::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:08::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:08::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:08::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:08::SCWWriter::formatted JSON is {
+	"platformName":	"lab2p",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"lab2p",
+	"platHandOff":	"C:/Github_Repo/xup_embedded_practice/lab2/system_wrapper_lab2.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper_lab2.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"lab2p",
+	"systems":	[{
+			"systemName":	"lab2p",
+			"systemDesc":	"lab2p",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"lab2p",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"884cd224b1e1b5ebe7892a71000c437a",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/lab2p/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/lab2p/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"de37d72ba74ba18dce34b41f42cd6cfd",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-02-16.10:29:08::SCWPlatform::updated the xpfm file.
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::Saving the mss changes C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-16.10:29:09::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-16.10:29:09::SCWMssOS::Commit changes completed.
+TRACE::2024-02-16.10:29:09::SCWMssOS::Saving the mss changes C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-16.10:29:09::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-16.10:29:09::SCWMssOS::Commit changes completed.
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWWriter::formatted JSON is {
+	"platformName":	"lab2p",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"lab2p",
+	"platHandOff":	"C:/Github_Repo/xup_embedded_practice/lab2/system_wrapper_lab2.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper_lab2.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"lab2p",
+	"systems":	[{
+			"systemName":	"lab2p",
+			"systemDesc":	"lab2p",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"lab2p",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"884cd224b1e1b5ebe7892a71000c437a",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone_domain",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/lab2p/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/lab2p/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"de37d72ba74ba18dce34b41f42cd6cfd",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::Saving the mss changes C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-16.10:29:09::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-16.10:29:09::SCWMssOS::Commit changes completed.
+TRACE::2024-02-16.10:29:09::SCWMssOS::Saving the mss changes C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-16.10:29:09::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-16.10:29:09::SCWMssOS::Commit changes completed.
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWWriter::formatted JSON is {
+	"platformName":	"lab2p",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"lab2p",
+	"platHandOff":	"C:/Github_Repo/xup_embedded_practice/lab2/system_wrapper_lab2.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper_lab2.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"lab2p",
+	"systems":	[{
+			"systemName":	"lab2p",
+			"systemDesc":	"lab2p",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"lab2p",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"884cd224b1e1b5ebe7892a71000c437a",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/lab2p/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/lab2p/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"de37d72ba74ba18dce34b41f42cd6cfd",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-02-16.10:29:09::SCWMssOS::Saving the mss changes C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-16.10:29:09::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-16.10:29:09::SCWMssOS::Commit changes completed.
+TRACE::2024-02-16.10:29:09::SCWMssOS::Saving the mss changes C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-16.10:29:09::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-16.10:29:09::SCWMssOS::Commit changes completed.
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:09::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Opened existing hwdb system_wrapper_0
+TRACE::2024-02-16.10:29:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:09::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:09::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:09::SCWWriter::formatted JSON is {
+	"platformName":	"lab2p",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"lab2p",
+	"platHandOff":	"C:/Github_Repo/xup_embedded_practice/lab2/system_wrapper_lab2.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper_lab2.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"platFsblTarget":	"ps7_cortexa9_0",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"lab2p",
+	"systems":	[{
+			"systemName":	"lab2p",
+			"systemDesc":	"lab2p",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"lab2p",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"884cd224b1e1b5ebe7892a71000c437a",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/lab2p/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/lab2p/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"de37d72ba74ba18dce34b41f42cd6cfd",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-02-16.10:29:10::SCWPlatform::Clearing the existing platform
+TRACE::2024-02-16.10:29:10::SCWSystem::Clearing the existing sysconfig
+TRACE::2024-02-16.10:29:10::SCWBDomain::clearing the fsbl build
+TRACE::2024-02-16.10:29:10::SCWMssOS::Removing the swdes entry for  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:10::SCWMssOS::Removing the swdes entry for  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:10::SCWSystem::Clearing the domains completed.
+TRACE::2024-02-16.10:29:10::SCWPlatform::Clearing the opened hw db.
+TRACE::2024-02-16.10:29:10::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:10::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:10::SCWPlatform:: Platform location is C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:10::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:10::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:10::SCWPlatform::Removing the HwDB with name C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:10::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:10::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:10::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:10::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:10::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:10::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:10::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-02-16.10:29:12::SCWPlatform::Opened new HwDB with name system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWReader::Active system found as  lab2p
+TRACE::2024-02-16.10:29:12::SCWReader::Handling sysconfig lab2p
+TRACE::2024-02-16.10:29:12::SCWDomain::checking for install qemu data   : 
+TRACE::2024-02-16.10:29:12::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2024-02-16.10:29:12::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:12::SCWReader::Boot application domain added for zynq_fsbl
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:12::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-02-16.10:29:12::SCWMssOS::No sw design opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS::mss exists loading the mss file  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS::Opened the sw design from mss  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS::Adding the swdes entry C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2024-02-16.10:29:12::SCWMssOS::updating the scw layer about changes
+TRACE::2024-02-16.10:29:12::SCWMssOS::Opened the sw design.  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:12::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:12::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS:: library already available in sw design:  xilffs:4.8
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:12::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:12::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS:: library already available in sw design:  xilrsa:1.6
+TRACE::2024-02-16.10:29:12::SCWMssOS::Saving the mss changes C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-16.10:29:12::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-16.10:29:12::SCWMssOS::Commit changes completed.
+TRACE::2024-02-16.10:29:12::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-02-16.10:29:12::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:12::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:12::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWReader::No isolation master present  
+TRACE::2024-02-16.10:29:12::SCWDomain::checking for install qemu data   : 
+TRACE::2024-02-16.10:29:12::SCWDomain:: Using the QEMU Data from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2024-02-16.10:29:12::SCWDomain:: Using the QEMU args  from install at  : C:/Xilinx/Vitis/2022.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:12::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:12::SCWMssOS::No sw design opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS::mss exists loading the mss file  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS::Opened the sw design from mss  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS::Adding the swdes entry C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2024-02-16.10:29:12::SCWMssOS::updating the scw layer about changes
+TRACE::2024-02-16.10:29:12::SCWMssOS::Opened the sw design.  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS::Saving the mss changes C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-16.10:29:12::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-16.10:29:12::SCWMssOS::Commit changes completed.
+TRACE::2024-02-16.10:29:12::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-02-16.10:29:12::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:29:12::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:29:12::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:29:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:29:12::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:29:12::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:29:12::SCWReader::No isolation master present  
+LOG::2024-02-16.10:30:49::SCWPlatform::Started generating the artifacts platform lab2p
+TRACE::2024-02-16.10:30:49::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-02-16.10:30:49::SCWPlatform::Started generating the artifacts for system configuration lab2p
+LOG::2024-02-16.10:30:49::SCWSystem::Checking the domain zynq_fsbl
+LOG::2024-02-16.10:30:49::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2024-02-16.10:30:49::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2024-02-16.10:30:49::SCWDomain::Building the domain as part of full build :  zynq_fsbl
+TRACE::2024-02-16.10:30:49::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:30:49::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:30:49::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:30:49::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:30:49::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:30:49::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:30:49::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:30:49::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:30:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:30:49::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:30:49::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:30:49::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:30:49::SCWBDomain::Completed writing the mss file at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp
+TRACE::2024-02-16.10:30:49::SCWBDomain::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-02-16.10:30:49::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2024-02-16.10:30:49::SCWBDomain::System Command Ran  C:&  cd  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl& make -C  zynq_fsbl_bsp & make 
+TRACE::2024-02-16.10:30:49::SCWBDomain::make: Entering directory 'C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp'
+
+TRACE::2024-02-16.10:30:49::SCWBDomain::make --no-print-directory seq_libs
+
+TRACE::2024-02-16.10:30:49::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2024-02-16.10:30:49::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2024-02-16.10:30:49::SCWBDomain::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2024-02-16.10:30:49::SCWBDomain::ard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:49::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2024-02-16.10:30:49::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2024-02-16.10:30:49::SCWBDomain::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2024-02-16.10:30:49::SCWBDomain::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:49::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2024-02-16.10:30:49::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-02-16.10:30:49::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-02-16.10:30:49::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:49::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2024-02-16.10:30:49::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:49::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:49::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:49::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2024-02-16.10:30:49::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-02-16.10:30:49::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-02-16.10:30:49::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:49::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-02-16.10:30:49::SCWBDomain::make -C ps7_cortexa9_0/libsrc/gpio_v4_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2024-02-16.10:30:49::SCWBDomain::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2024-02-16.10:30:49::SCWBDomain::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:49::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_0/src"
+
+TRACE::2024-02-16.10:30:49::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v5_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:49::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:49::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:50::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2024-02-16.10:30:50::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2024-02-16.10:30:50::SCWBDomain::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2024-02-16.10:30:50::SCWBDomain::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:50::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2024-02-16.10:30:50::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:50::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:50::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:50::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-02-16.10:30:50::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2024-02-16.10:30:50::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2024-02-16.10:30:50::SCWBDomain::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:50::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2024-02-16.10:30:50::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2024-02-16.10:30:50::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2024-02-16.10:30:50::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:51::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:51::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v4_8/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:51::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:51::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:51::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:51::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-02-16.10:30:51::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-02-16.10:30:51::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::'Finished building libraries sequentially.'
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -j 10 --no-print-directory par_libs
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2024-02-16.10:30:51::SCWBDomain::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2024-02-16.10:30:51::SCWBDomain::ard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2024-02-16.10:30:51::SCWBDomain::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2024-02-16.10:30:51::SCWBDomain::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-02-16.10:30:51::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-02-16.10:30:51::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:51::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:51::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-02-16.10:30:51::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-02-16.10:30:51::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/gpio_v4_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2024-02-16.10:30:51::SCWBDomain::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2024-02-16.10:30:51::SCWBDomain::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_0/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v5_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:51::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:51::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2024-02-16.10:30:51::SCWBDomain::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2024-02-16.10:30:51::SCWBDomain::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:51::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:51::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2024-02-16.10:30:51::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2024-02-16.10:30:51::SCWBDomain::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2024-02-16.10:30:51::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2024-02-16.10:30:51::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:51::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:51::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilffs_v4_8/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:51::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:51::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make include in ps7_cortexa9_0/libsrc/xilrsa_v1_6/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilrsa_v1_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:51::SCWBDomain:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:51::SCWBDomain::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2024-02-16.10:30:51::SCWBDomain::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2024-02-16.10:30:51::SCWBDomain:: -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2024-02-16.10:30:51::SCWBDomain::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2024-02-16.10:30:51::SCWBDomain::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2024-02-16.10:30:51::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2024-02-16.10:30:51::SCWBDomain::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-02-16.10:30:51::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-02-16.10:30:51::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2024-02-16.10:30:51::SCWBDomain::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2024-02-16.10:30:51::SCWBDomain::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/gpio_v4_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "ARC
+TRACE::2024-02-16.10:30:51::SCWBDomain::HIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfi
+TRACE::2024-02-16.10:30:51::SCWBDomain::les -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v5_0/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scugic_v5_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-02-16.10:30:51::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-02-16.10:30:51::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2024-02-16.10:30:51::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-02-16.10:30:51::SCWBDomain::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-02-16.10:30:51::SCWBDomain::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:52::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2024-02-16.10:30:52::SCWBDomain::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-02-16.10:30:52::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-02-16.10:30:52::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:52::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-02-16.10:30:52::SCWBDomain::make -C ps7_cortexa9_0/libsrc/standalone_v8_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2024-02-16.10:30:52::SCWBDomain::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2024-02-16.10:30:52::SCWBDomain::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:52::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2024-02-16.10:30:52::SCWBDomain::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2024-02-16.10:30:52::SCWBDomain::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2024-02-16.10:30:52::SCWBDomain::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:52::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2024-02-16.10:30:52::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-02-16.10:30:52::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-02-16.10:30:52::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:52::SCWBDomain::"Running Make libs in ps7_cortexa9_0/libsrc/xilffs_v4_8/src"
+
+TRACE::2024-02-16.10:30:52::SCWBDomain::make -C ps7_cortexa9_0/libsrc/xilffs_v4_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-02-16.10:30:52::SCWBDomain::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-02-16.10:30:52::SCWBDomain::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:54::SCWBDomain::'Finished building libraries parallelly.'
+
+TRACE::2024-02-16.10:30:54::SCWBDomain::make --no-print-directory archive
+
+TRACE::2024-02-16.10:30:54::SCWBDomain::arm-none-eabi-ar -r  ps7_cortexa9_0/lib/libxil.a ps7_cortexa9_0/lib/_exit.o ps7_cortexa9_0/lib/_open.o ps7_cortexa9_0/lib/_sbrk
+TRACE::2024-02-16.10:30:54::SCWBDomain::.o ps7_cortexa9_0/lib/abort.o ps7_cortexa9_0/lib/asm_vectors.o ps7_cortexa9_0/lib/boot.o ps7_cortexa9_0/lib/close.o ps7_cortexa
+TRACE::2024-02-16.10:30:54::SCWBDomain::9_0/lib/cpputest_time.o ps7_cortexa9_0/lib/cpu_init.o ps7_cortexa9_0/lib/errno.o ps7_cortexa9_0/lib/fcntl.o ps7_cortexa9_0/lib/
+TRACE::2024-02-16.10:30:54::SCWBDomain::fstat.o ps7_cortexa9_0/lib/getpid.o ps7_cortexa9_0/lib/inbyte.o ps7_cortexa9_0/lib/isatty.o ps7_cortexa9_0/lib/kill.o ps7_corte
+TRACE::2024-02-16.10:30:54::SCWBDomain::xa9_0/lib/lseek.o ps7_cortexa9_0/lib/open.o ps7_cortexa9_0/lib/outbyte.o ps7_cortexa9_0/lib/print.o ps7_cortexa9_0/lib/putnum.o
+TRACE::2024-02-16.10:30:54::SCWBDomain:: ps7_cortexa9_0/lib/read.o ps7_cortexa9_0/lib/sbrk.o ps7_cortexa9_0/lib/sleep.o ps7_cortexa9_0/lib/time.o ps7_cortexa9_0/lib/tr
+TRACE::2024-02-16.10:30:54::SCWBDomain::anslation_table.o ps7_cortexa9_0/lib/unlink.o ps7_cortexa9_0/lib/usleep.o ps7_cortexa9_0/lib/vectors.o ps7_cortexa9_0/lib/write
+TRACE::2024-02-16.10:30:54::SCWBDomain::.o ps7_cortexa9_0/lib/xadcps.o ps7_cortexa9_0/lib/xadcps_g.o ps7_cortexa9_0/lib/xadcps_intr.o ps7_cortexa9_0/lib/xadcps_selftes
+TRACE::2024-02-16.10:30:54::SCWBDomain::t.o ps7_cortexa9_0/lib/xadcps_sinit.o ps7_cortexa9_0/lib/xcoresightpsdcc.o ps7_cortexa9_0/lib/xdevcfg.o ps7_cortexa9_0/lib/xdev
+TRACE::2024-02-16.10:30:54::SCWBDomain::cfg_g.o ps7_cortexa9_0/lib/xdevcfg_hw.o ps7_cortexa9_0/lib/xdevcfg_intr.o ps7_cortexa9_0/lib/xdevcfg_selftest.o ps7_cortexa9_0/
+TRACE::2024-02-16.10:30:54::SCWBDomain::lib/xdevcfg_sinit.o ps7_cortexa9_0/lib/xdmaps.o ps7_cortexa9_0/lib/xdmaps_g.o ps7_cortexa9_0/lib/xdmaps_hw.o ps7_cortexa9_0/lib
+TRACE::2024-02-16.10:30:54::SCWBDomain::/xdmaps_selftest.o ps7_cortexa9_0/lib/xdmaps_sinit.o ps7_cortexa9_0/lib/xgpio.o ps7_cortexa9_0/lib/xgpio_extra.o ps7_cortexa9_0
+TRACE::2024-02-16.10:30:54::SCWBDomain::/lib/xgpio_g.o ps7_cortexa9_0/lib/xgpio_intr.o ps7_cortexa9_0/lib/xgpio_selftest.o ps7_cortexa9_0/lib/xgpio_sinit.o ps7_cortexa
+TRACE::2024-02-16.10:30:54::SCWBDomain::9_0/lib/xil-crt0.o ps7_cortexa9_0/lib/xil_assert.o ps7_cortexa9_0/lib/xil_cache.o ps7_cortexa9_0/lib/xil_clocking.o ps7_cortexa
+TRACE::2024-02-16.10:30:54::SCWBDomain::9_0/lib/xil_exception.o ps7_cortexa9_0/lib/xil_mem.o ps7_cortexa9_0/lib/xil_misc_psreset_api.o ps7_cortexa9_0/lib/xil_mmu.o ps7
+TRACE::2024-02-16.10:30:54::SCWBDomain::_cortexa9_0/lib/xil_printf.o ps7_cortexa9_0/lib/xil_sleepcommon.o ps7_cortexa9_0/lib/xil_sleeptimer.o ps7_cortexa9_0/lib/xil_sp
+TRACE::2024-02-16.10:30:54::SCWBDomain::inlock.o ps7_cortexa9_0/lib/xil_testcache.o ps7_cortexa9_0/lib/xil_testio.o ps7_cortexa9_0/lib/xil_testmem.o ps7_cortexa9_0/lib
+TRACE::2024-02-16.10:30:54::SCWBDomain::/xil_util.o ps7_cortexa9_0/lib/xinterrupt_wrap.o ps7_cortexa9_0/lib/xl2cc_counter.o ps7_cortexa9_0/lib/xplatform_info.o ps7_cor
+TRACE::2024-02-16.10:30:54::SCWBDomain::texa9_0/lib/xpm_counter.o ps7_cortexa9_0/lib/xscugic.o ps7_cortexa9_0/lib/xscugic_g.o ps7_cortexa9_0/lib/xscugic_hw.o ps7_corte
+TRACE::2024-02-16.10:30:54::SCWBDomain::xa9_0/lib/xscugic_intr.o ps7_cortexa9_0/lib/xscugic_selftest.o ps7_cortexa9_0/lib/xscugic_sinit.o ps7_cortexa9_0/lib/xscutimer.
+TRACE::2024-02-16.10:30:54::SCWBDomain::o ps7_cortexa9_0/lib/xscutimer_g.o ps7_cortexa9_0/lib/xscutimer_selftest.o ps7_cortexa9_0/lib/xscutimer_sinit.o ps7_cortexa9_0/
+TRACE::2024-02-16.10:30:54::SCWBDomain::lib/xscuwdt.o ps7_cortexa9_0/lib/xscuwdt_g.o ps7_cortexa9_0/lib/xscuwdt_selftest.o ps7_cortexa9_0/lib/xscuwdt_sinit.o ps7_corte
+TRACE::2024-02-16.10:30:54::SCWBDomain::xa9_0/lib/xtime_l.o ps7_cortexa9_0/lib/xuartps.o ps7_cortexa9_0/lib/xuartps_g.o ps7_cortexa9_0/lib/xuartps_hw.o ps7_cortexa9_0/
+TRACE::2024-02-16.10:30:54::SCWBDomain::lib/xuartps_intr.o ps7_cortexa9_0/lib/xuartps_options.o ps7_cortexa9_0/lib/xuartps_selftest.o ps7_cortexa9_0/lib/xuartps_sinit.
+TRACE::2024-02-16.10:30:54::SCWBDomain::o
+
+TRACE::2024-02-16.10:30:54::SCWBDomain::'Finished building libraries'
+
+TRACE::2024-02-16.10:30:54::SCWBDomain::make: Leaving directory 'C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp'
+
+TRACE::2024-02-16.10:30:54::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c sd.c -o sd.o -Izynq_fsbl_bsp/ps7_cort
+TRACE::2024-02-16.10:30:54::SCWBDomain::exa9_0/include -I.
+
+TRACE::2024-02-16.10:30:54::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c nand.c -o nand.o -Izynq_fsbl_bsp/ps7_
+TRACE::2024-02-16.10:30:54::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2024-02-16.10:30:54::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c nor.c -o nor.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2024-02-16.10:30:54::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2024-02-16.10:30:54::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c image_mover.c -o image_mover.o -Izynq
+TRACE::2024-02-16.10:30:54::SCWBDomain::_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2024-02-16.10:30:55::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c md5.c -o md5.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2024-02-16.10:30:55::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2024-02-16.10:30:55::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c fsbl_hooks.c -o fsbl_hooks.o -Izynq_f
+TRACE::2024-02-16.10:30:55::SCWBDomain::sbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2024-02-16.10:30:55::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c main.c -o main.o -Izynq_fsbl_bsp/ps7_
+TRACE::2024-02-16.10:30:55::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2024-02-16.10:30:55::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c rsa.c -o rsa.o -Izynq_fsbl_bsp/ps7_co
+TRACE::2024-02-16.10:30:55::SCWBDomain::rtexa9_0/include -I.
+
+TRACE::2024-02-16.10:30:55::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c qspi.c -o qspi.o -Izynq_fsbl_bsp/ps7_
+TRACE::2024-02-16.10:30:55::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2024-02-16.10:30:55::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c ps7_init.c -o ps7_init.o -Izynq_fsbl_
+TRACE::2024-02-16.10:30:55::SCWBDomain::bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2024-02-16.10:30:55::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c pcap.c -o pcap.o -Izynq_fsbl_bsp/ps7_
+TRACE::2024-02-16.10:30:55::SCWBDomain::cortexa9_0/include -I.
+
+TRACE::2024-02-16.10:30:56::SCWBDomain::arm-none-eabi-gcc  -O2 -c -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -c fsbl_handoff.S -o fsbl_handoff.o -Izy
+TRACE::2024-02-16.10:30:56::SCWBDomain::nq_fsbl_bsp/ps7_cortexa9_0/include -I.
+
+TRACE::2024-02-16.10:30:56::SCWBDomain::arm-none-eabi-gcc -o fsbl.elf fsbl_handoff.o fsbl_hooks.o image_mover.o main.o md5.o nand.o nor.o pcap.o ps7_init.o qspi.o rsa.
+TRACE::2024-02-16.10:30:56::SCWBDomain::o sd.o -MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard   -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id
+TRACE::2024-02-16.10:30:56::SCWBDomain::=none -specs=Xilinx.spec  -lrsa -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-
+TRACE::2024-02-16.10:30:56::SCWBDomain::group -Wl,--start-group,-lrsa,-lxil,-lgcc,-lc,--end-group                               -Wl,--gc-sections -Lzynq_fsbl_bsp/ps7_c
+TRACE::2024-02-16.10:30:56::SCWBDomain::ortexa9_0/lib -L./ -Tlscript.ld
+
+LOG::2024-02-16.10:30:56::SCWSystem::Checking the domain standalone_domain
+LOG::2024-02-16.10:30:56::SCWSystem::Not a boot domain 
+LOG::2024-02-16.10:30:56::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2024-02-16.10:30:56::SCWDomain::Generating domain artifcats
+TRACE::2024-02-16.10:30:56::SCWMssOS::Generating standalone artifcats
+TRACE::2024-02-16.10:30:56::SCWMssOS::Copying the qemu file from  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/resources/lab2p/standalone_domain/qemu_args.txt To C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/export/lab2p/sw/lab2p/qemu/
+TRACE::2024-02-16.10:30:56::SCWMssOS::Copying the qemu file from  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/resources/lab2p/standalone_domain/qemu_args.txt To C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/export/lab2p/sw/lab2p/standalone_domain/qemu/
+TRACE::2024-02-16.10:30:56::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-02-16.10:30:56::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:30:56::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:30:56::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:30:56::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:30:56::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:30:56::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:30:56::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:30:56::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:30:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:30:56::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:30:56::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:30:56::SCWMssOS::Completed writing the mss file at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2024-02-16.10:30:56::SCWMssOS::Mss edits present, copying mssfile into export location C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:30:56::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-02-16.10:30:56::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-02-16.10:30:56::SCWDomain::Building the domain as part of full build :  standalone_domain
+TRACE::2024-02-16.10:30:56::SCWMssOS::doing bsp build ... 
+TRACE::2024-02-16.10:30:56::SCWMssOS::System Command Ran  C: & cd  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp & make 
+TRACE::2024-02-16.10:30:56::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -j 10 --no-print-directory par_libs
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none
+TRACE::2024-02-16.10:30:56::SCWMssOS::-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=h
+TRACE::2024-02-16.10:30:56::SCWMssOS::ard -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2024-02-16.10:30:56::SCWMssOS::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2024-02-16.10:30:56::SCWMssOS::d -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-02-16.10:30:56::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-02-16.10:30:56::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:56::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:56::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-02-16.10:30:56::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-02-16.10:30:56::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpio_v4_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2024-02-16.10:30:56::SCWMssOS::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2024-02-16.10:30:56::SCWMssOS::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scugic_v5_0/src"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v5_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:56::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:56::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2024-02-16.10:30:56::SCWMssOS::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2024-02-16.10:30:56::SCWMssOS::startfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:56::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:56::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2024-02-16.10:30:56::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2024-02-16.10:30:56::SCWMssOS::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2024-02-16.10:30:56::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2024-02-16.10:30:56::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2024-02-16.10:30:56::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2024-02-16.10:30:56::SCWMssOS::artfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2024-02-16.10:30:56::SCWMssOS::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2024-02-16.10:30:56::SCWMssOS:: -nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_11/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2024-02-16.10:30:56::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2024-02-16.10:30:56::SCWMssOS::nostartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_2/src"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::make -C ps7_cortexa9_0/libsrc/ddrps_v1_2/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2024-02-16.10:30:56::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2024-02-16.10:30:56::SCWMssOS::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:56::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_7/src"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/devcfg_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-02-16.10:30:57::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-02-16.10:30:57::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_8/src"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/dmaps_v2_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "AR
+TRACE::2024-02-16.10:30:57::SCWMssOS::CHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartf
+TRACE::2024-02-16.10:30:57::SCWMssOS::iles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/gpio_v4_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "ARC
+TRACE::2024-02-16.10:30:57::SCWMssOS::HIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfi
+TRACE::2024-02-16.10:30:57::SCWMssOS::les -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v5_0/src"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scugic_v5_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-02-16.10:30:57::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-02-16.10:30:57::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_4/src"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scutimer_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2024-02-16.10:30:57::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2024-02-16.10:30:57::SCWMssOS::rtfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_4/src"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/scuwdt_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-02-16.10:30:57::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-02-16.10:30:57::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/standalone_v8_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2024-02-16.10:30:57::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2024-02-16.10:30:57::SCWMssOS::tartfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_11/src"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/uartps_v3_11/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "
+TRACE::2024-02-16.10:30:57::SCWMssOS::ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostar
+TRACE::2024-02-16.10:30:57::SCWMssOS::tfiles -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_6/src"
+
+TRACE::2024-02-16.10:30:57::SCWMssOS::make -C ps7_cortexa9_0/libsrc/xadcps_v2_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" "A
+TRACE::2024-02-16.10:30:57::SCWMssOS::RCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostart
+TRACE::2024-02-16.10:30:57::SCWMssOS::files -g -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-02-16.10:30:59::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-02-16.10:30:59::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-02-16.10:30:59::SCWMssOS::arm-none-eabi-ar -r  ps7_cortexa9_0/lib/libxil.a ps7_cortexa9_0/lib/_exit.o ps7_cortexa9_0/lib/_open.o ps7_cortexa9_0/lib/_sbrk
+TRACE::2024-02-16.10:30:59::SCWMssOS::.o ps7_cortexa9_0/lib/abort.o ps7_cortexa9_0/lib/asm_vectors.o ps7_cortexa9_0/lib/boot.o ps7_cortexa9_0/lib/close.o ps7_cortexa
+TRACE::2024-02-16.10:30:59::SCWMssOS::9_0/lib/cpputest_time.o ps7_cortexa9_0/lib/cpu_init.o ps7_cortexa9_0/lib/errno.o ps7_cortexa9_0/lib/fcntl.o ps7_cortexa9_0/lib/
+TRACE::2024-02-16.10:30:59::SCWMssOS::fstat.o ps7_cortexa9_0/lib/getpid.o ps7_cortexa9_0/lib/inbyte.o ps7_cortexa9_0/lib/isatty.o ps7_cortexa9_0/lib/kill.o ps7_corte
+TRACE::2024-02-16.10:30:59::SCWMssOS::xa9_0/lib/lseek.o ps7_cortexa9_0/lib/open.o ps7_cortexa9_0/lib/outbyte.o ps7_cortexa9_0/lib/print.o ps7_cortexa9_0/lib/putnum.o
+TRACE::2024-02-16.10:30:59::SCWMssOS:: ps7_cortexa9_0/lib/read.o ps7_cortexa9_0/lib/sbrk.o ps7_cortexa9_0/lib/sleep.o ps7_cortexa9_0/lib/time.o ps7_cortexa9_0/lib/tr
+TRACE::2024-02-16.10:30:59::SCWMssOS::anslation_table.o ps7_cortexa9_0/lib/unlink.o ps7_cortexa9_0/lib/usleep.o ps7_cortexa9_0/lib/vectors.o ps7_cortexa9_0/lib/write
+TRACE::2024-02-16.10:30:59::SCWMssOS::.o ps7_cortexa9_0/lib/xadcps.o ps7_cortexa9_0/lib/xadcps_g.o ps7_cortexa9_0/lib/xadcps_intr.o ps7_cortexa9_0/lib/xadcps_selftes
+TRACE::2024-02-16.10:30:59::SCWMssOS::t.o ps7_cortexa9_0/lib/xadcps_sinit.o ps7_cortexa9_0/lib/xcoresightpsdcc.o ps7_cortexa9_0/lib/xdevcfg.o ps7_cortexa9_0/lib/xdev
+TRACE::2024-02-16.10:30:59::SCWMssOS::cfg_g.o ps7_cortexa9_0/lib/xdevcfg_hw.o ps7_cortexa9_0/lib/xdevcfg_intr.o ps7_cortexa9_0/lib/xdevcfg_selftest.o ps7_cortexa9_0/
+TRACE::2024-02-16.10:30:59::SCWMssOS::lib/xdevcfg_sinit.o ps7_cortexa9_0/lib/xdmaps.o ps7_cortexa9_0/lib/xdmaps_g.o ps7_cortexa9_0/lib/xdmaps_hw.o ps7_cortexa9_0/lib
+TRACE::2024-02-16.10:30:59::SCWMssOS::/xdmaps_selftest.o ps7_cortexa9_0/lib/xdmaps_sinit.o ps7_cortexa9_0/lib/xgpio.o ps7_cortexa9_0/lib/xgpio_extra.o ps7_cortexa9_0
+TRACE::2024-02-16.10:30:59::SCWMssOS::/lib/xgpio_g.o ps7_cortexa9_0/lib/xgpio_intr.o ps7_cortexa9_0/lib/xgpio_selftest.o ps7_cortexa9_0/lib/xgpio_sinit.o ps7_cortexa
+TRACE::2024-02-16.10:30:59::SCWMssOS::9_0/lib/xil-crt0.o ps7_cortexa9_0/lib/xil_assert.o ps7_cortexa9_0/lib/xil_cache.o ps7_cortexa9_0/lib/xil_clocking.o ps7_cortexa
+TRACE::2024-02-16.10:30:59::SCWMssOS::9_0/lib/xil_exception.o ps7_cortexa9_0/lib/xil_mem.o ps7_cortexa9_0/lib/xil_misc_psreset_api.o ps7_cortexa9_0/lib/xil_mmu.o ps7
+TRACE::2024-02-16.10:30:59::SCWMssOS::_cortexa9_0/lib/xil_printf.o ps7_cortexa9_0/lib/xil_sleepcommon.o ps7_cortexa9_0/lib/xil_sleeptimer.o ps7_cortexa9_0/lib/xil_sp
+TRACE::2024-02-16.10:30:59::SCWMssOS::inlock.o ps7_cortexa9_0/lib/xil_testcache.o ps7_cortexa9_0/lib/xil_testio.o ps7_cortexa9_0/lib/xil_testmem.o ps7_cortexa9_0/lib
+TRACE::2024-02-16.10:30:59::SCWMssOS::/xil_util.o ps7_cortexa9_0/lib/xinterrupt_wrap.o ps7_cortexa9_0/lib/xl2cc_counter.o ps7_cortexa9_0/lib/xplatform_info.o ps7_cor
+TRACE::2024-02-16.10:30:59::SCWMssOS::texa9_0/lib/xpm_counter.o ps7_cortexa9_0/lib/xscugic.o ps7_cortexa9_0/lib/xscugic_g.o ps7_cortexa9_0/lib/xscugic_hw.o ps7_corte
+TRACE::2024-02-16.10:30:59::SCWMssOS::xa9_0/lib/xscugic_intr.o ps7_cortexa9_0/lib/xscugic_selftest.o ps7_cortexa9_0/lib/xscugic_sinit.o ps7_cortexa9_0/lib/xscutimer.
+TRACE::2024-02-16.10:30:59::SCWMssOS::o ps7_cortexa9_0/lib/xscutimer_g.o ps7_cortexa9_0/lib/xscutimer_selftest.o ps7_cortexa9_0/lib/xscutimer_sinit.o ps7_cortexa9_0/
+TRACE::2024-02-16.10:30:59::SCWMssOS::lib/xscuwdt.o ps7_cortexa9_0/lib/xscuwdt_g.o ps7_cortexa9_0/lib/xscuwdt_selftest.o ps7_cortexa9_0/lib/xscuwdt_sinit.o ps7_corte
+TRACE::2024-02-16.10:30:59::SCWMssOS::xa9_0/lib/xtime_l.o ps7_cortexa9_0/lib/xuartps.o ps7_cortexa9_0/lib/xuartps_g.o ps7_cortexa9_0/lib/xuartps_hw.o ps7_cortexa9_0/
+TRACE::2024-02-16.10:30:59::SCWMssOS::lib/xuartps_intr.o ps7_cortexa9_0/lib/xuartps_options.o ps7_cortexa9_0/lib/xuartps_selftest.o ps7_cortexa9_0/lib/xuartps_sinit.
+TRACE::2024-02-16.10:30:59::SCWMssOS::o
+
+TRACE::2024-02-16.10:30:59::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-02-16.10:30:59::SCWMssOS::Copying to export directory.
+TRACE::2024-02-16.10:31:00::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-02-16.10:31:00::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-02-16.10:31:00::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2024-02-16.10:31:00::SCWSystem::Completed Processing the sysconfig lab2p
+LOG::2024-02-16.10:31:00::SCWPlatform::Completed generating the artifacts for system configuration lab2p
+TRACE::2024-02-16.10:31:00::SCWPlatform::Started preparing the platform 
+TRACE::2024-02-16.10:31:00::SCWSystem::Writing the bif file for system config lab2p
+TRACE::2024-02-16.10:31:00::SCWSystem::dir created 
+TRACE::2024-02-16.10:31:00::SCWSystem::Writing the bif 
+TRACE::2024-02-16.10:31:00::SCWPlatform::Started writing the spfm file 
+TRACE::2024-02-16.10:31:00::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-02-16.10:31:00::SCWPlatform::Completed generating the platform
+TRACE::2024-02-16.10:31:00::SCWMssOS::Saving the mss changes C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:31:00::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-16.10:31:00::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-16.10:31:00::SCWMssOS::Commit changes completed.
+TRACE::2024-02-16.10:31:00::SCWMssOS::Saving the mss changes C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:31:00::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-02-16.10:31:00::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-02-16.10:31:00::SCWMssOS::Commit changes completed.
+TRACE::2024-02-16.10:31:00::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:31:00::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:31:00::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:31:00::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:31:00::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:31:00::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:31:00::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:31:00::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:31:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:31:00::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:31:00::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:31:00::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2024-02-16.10:31:00::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:31:00::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:31:00::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:31:00::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:31:00::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:31:00::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:31:00::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:31:00::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:31:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:31:00::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:31:00::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:31:00::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:31:00::SCWWriter::formatted JSON is {
+	"platformName":	"lab2p",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"lab2p",
+	"platHandOff":	"C:/Github_Repo/xup_embedded_practice/lab2/system_wrapper_lab2.xsa",
+	"platIntHandOff":	"<platformDir>/hw/system_wrapper_lab2.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"lab2p",
+	"systems":	[{
+			"systemName":	"lab2p",
+			"systemDesc":	"lab2p",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"lab2p",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"884cd224b1e1b5ebe7892a71000c437a",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.8", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"<platformDir>/resources/lab2p/standalone_domain/qemu_args.txt",
+					"qemuData":	"<platformDir>/resources/lab2p/standalone_domain/qemu",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"de37d72ba74ba18dce34b41f42cd6cfd",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-02-16.10:31:00::SCWPlatform::updated the xpfm file.
+TRACE::2024-02-16.10:31:00::SCWPlatform::Trying to open the hw design at C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:31:00::SCWPlatform::DSA given C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:31:00::SCWPlatform::DSA absoulate path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:31:00::SCWPlatform::DSA directory C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw
+TRACE::2024-02-16.10:31:00::SCWPlatform:: Platform Path C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/hw/system_wrapper_lab2.xsa
+TRACE::2024-02-16.10:31:00::SCWPlatform:: Unique name xilinx:pynq-z2::0.0
+TRACE::2024-02-16.10:31:00::SCWPlatform::Trying to set the existing hwdb with name system_wrapper_1
+TRACE::2024-02-16.10:31:00::SCWPlatform::Opened existing hwdb system_wrapper_1
+TRACE::2024-02-16.10:31:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-02-16.10:31:00::SCWMssOS::Checking the sw design at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2024-02-16.10:31:00::SCWMssOS::DEBUG:  swdes dump  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2024-02-16.10:31:00::SCWMssOS::Sw design exists and opened at  C:/Github_Repo/xup_embedded_practice/lab2_platform/lab2p/ps7_cortexa9_0/standalone_domain/bsp/system.mss
